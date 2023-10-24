@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+}
+
+#hero{ /*quando for id tem que ter #*/
+    width: 626px;
+    height: 486px;
+    margin: 64px auto 67px;
+}
+
+#hero img{
+    width: 350px;
+    margin-bottom: 32px;
+}
+
+h1 {  
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: medium;
+
+    margin: auto;
+}
+
+h1 span {
+    font-weight: bold;
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: #828282;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    color: #3f3d56;
+}
+
+#footer {
+    margin: 83px auto 40.83px ;
+}
+
+a + a {
+    margin-left: 42px;
+}
+
+.line {
+    width: 391px;
+    height: 0;
+
+    margin: 67px auto 16px;
+
+    border: 1px solid #eceff2;
+}
+
+span {
+    color:#ee24ff;
+}
+
+strong {
+    color: #3f3d56;
+}
+
+#wave {
+    position: relative;
+    top: px;
+    bottom: 0;
+}
